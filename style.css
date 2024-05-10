@@ -6,3 +6,6 @@ h3,
     color: hwb(80 14% 44%);
     font-family: fantasy;
 }
+h1 {
+    font-size: 38px;
+}
