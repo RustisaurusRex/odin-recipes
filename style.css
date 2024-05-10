@@ -4,4 +4,5 @@ h2,
 h3,
 .green {
     color: hwb(80 14% 44%);
+    font-family: fantasy;
 }
