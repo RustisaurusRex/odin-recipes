@@ -1,3 +1,6 @@
+body{
+    background-color: rgb(194, 204, 204);
+}
 
 h1,
 h2,
@@ -11,4 +14,18 @@ h1 {
 }
 p {
     font-style: italic;
+}
+div {
+    text-align: left;
+    margin-bottom: 10px;
+  }
+.list {
+    font-size: 24px;
+    padding: 30px;
+    display: block;
+}
+.thumbnail {
+ padding-right: 10px;
+ height: 100px;  
+ width: auto;
 }
